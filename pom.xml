@@ -40,8 +40,8 @@
 		<dependency>
 		      <groupId>org.actframework</groupId>
 		      <artifactId>act-excel</artifactId>
-		 </dependency>
-		
+		      <version>1.6.0</version>
+		 </dependency>		
 	</dependencies>
 	<reporting>
         <plugins>
