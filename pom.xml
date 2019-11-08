@@ -36,12 +36,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-		</dependency>
-		<dependency>
-		      <groupId>org.actframework</groupId>
-		      <artifactId>act-excel</artifactId>
-		      <version>1.6.0</version>
-		 </dependency>		
+		</dependency>		
 	</dependencies>
 	<reporting>
         <plugins>
