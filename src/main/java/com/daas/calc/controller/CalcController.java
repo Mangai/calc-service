@@ -1,4 +1,4 @@
-1package com.daas.calc.controller;
+package com.daas.calc.controller;
 
 import com.daas.calc.service.CalcService;
 
